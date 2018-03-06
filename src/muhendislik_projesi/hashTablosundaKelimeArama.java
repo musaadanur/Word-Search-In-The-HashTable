@@ -1,5 +1,4 @@
 package muhendislik_projesi;
-
 import com.sun.org.apache.bcel.internal.generic.GOTO;
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,7 +7,6 @@ import java.io.IOException;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class hashTablosundaKelimeArama {
     //words.txt deki kelimeler (default kelimeler)
     static ArrayList<String> words=new ArrayList<String>();
